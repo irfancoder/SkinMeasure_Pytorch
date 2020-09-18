@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "pexels": "^1.0.1"
+    
+  },
+  "type":"module"
+}
